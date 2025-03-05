@@ -1,0 +1,1 @@
+decodeURIComponent.write("This is a JS code"); 
